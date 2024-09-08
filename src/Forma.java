@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class Forma {
+abstract class Forma {
+    public abstract double calcularArea(); //"receita geral"
 }
