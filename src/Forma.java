@@ -1,3 +1,5 @@
-abstract class Forma {
-    public abstract double calcularArea(); //"receita geral"
+ class Forma {
+    public double calcularArea() {
+        return 0;
+    }
 }
